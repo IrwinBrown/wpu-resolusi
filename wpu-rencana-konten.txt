@@ -3,4 +3,5 @@ Rencana Konten
 Javscript
 cara menambahkan Koding
 Python
+Django
 Interview
